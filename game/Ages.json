@@ -1,0 +1,414 @@
+{
+	Age: [
+		{
+			Name: "AgeofCivilizations",
+			
+			AGE_BeginningYear: -5000,
+			AGE_EndYear: -100,
+			
+			ENABLE_NON_KINGS_IMG: false,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 20,
+			POPULATION_GROWTH_PER_MONTH: 3200,
+			
+			FLAG_GROUP: [0, 4],
+			FLAG_BELOW: true,
+			
+			OVER_IMAGE_ID: 0,
+			SHIP_GROUP: 0,
+			
+			GAME_DAYS_PER_TURN: 7,
+			
+			NEW_GAME_ADVANTAGES: true,
+			
+			RIVALS_DISTANCE: 0.075,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 0,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 3,
+			
+			VASSALS: true,
+			UQ_UI: false,
+			BATTLE_SOUND_2: false,
+		},
+		{
+			Name: "AgeofExpansion",
+			
+			AGE_BeginningYear: -100,
+			AGE_EndYear: 0,
+			
+			ENABLE_NON_KINGS_IMG: false,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 20,
+			POPULATION_GROWTH_PER_MONTH: 3400,
+			
+			FLAG_GROUP: [0, 4],
+			FLAG_BELOW: true,
+			
+			OVER_IMAGE_ID: 0,
+			SHIP_GROUP: 0,
+			
+			GAME_DAYS_PER_TURN: 7,
+			
+			NEW_GAME_ADVANTAGES: true,
+			
+			RIVALS_DISTANCE: 0.075,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 0,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 3,
+			
+			VASSALS: true,
+			UQ_UI: false,
+			BATTLE_SOUND_2: false,
+		},
+		{
+			Name: "AgeofDarkness",
+			
+			AGE_BeginningYear: 0,
+			AGE_EndYear: 270,
+			
+			ENABLE_NON_KINGS_IMG: false,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 20,
+			POPULATION_GROWTH_PER_MONTH: 3600,
+			
+			FLAG_GROUP: [0, 4],
+			FLAG_BELOW: true,
+			
+			OVER_IMAGE_ID: 0,
+			SHIP_GROUP: 0,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: true,
+			
+			RIVALS_DISTANCE: 0.075,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 0,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 3,
+			
+			VASSALS: true,
+			UQ_UI: false,
+			BATTLE_SOUND_2: false,
+		},
+		{
+			Name: "AgeofFeudalism",
+			
+			AGE_BeginningYear: 270,
+			AGE_EndYear: 437,
+			
+			ENABLE_NON_KINGS_IMG: false,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 20,
+			POPULATION_GROWTH_PER_MONTH: 3800,
+			
+			FLAG_GROUP: [0, 4],
+			FLAG_BELOW: true,
+			
+			OVER_IMAGE_ID: 1,
+			SHIP_GROUP: 0,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: true,
+			
+			RIVALS_DISTANCE: 0.075,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 0,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 3,
+			
+			VASSALS: true,
+			UQ_UI: false,
+			BATTLE_SOUND_2: false,
+		},
+		{
+			Name: "AgeofDiscovery",
+			
+			AGE_BeginningYear: 437,
+			AGE_EndYear: 783,
+			
+			ENABLE_NON_KINGS_IMG: false,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 20,
+			POPULATION_GROWTH_PER_MONTH: 4000,
+			
+			FLAG_GROUP: [4, 13],
+			FLAG_BELOW: true,
+			
+			OVER_IMAGE_ID: 2,
+			SHIP_GROUP: 0,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: true,
+			
+			RIVALS_DISTANCE: 0.075,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 4,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 3,
+			
+			VASSALS: true,
+			UQ_UI: false,
+			BATTLE_SOUND_2: false,
+		},
+		{
+			Name: "AgeofRevolution",
+			
+			AGE_BeginningYear: 783,
+			AGE_EndYear: 810,
+			
+			ENABLE_NON_KINGS_IMG: true,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 28,
+			POPULATION_GROWTH_PER_MONTH: 4400,
+			
+			FLAG_GROUP: [4, 13],
+			FLAG_BELOW: true,
+			
+			OVER_IMAGE_ID: 2,
+			SHIP_GROUP: 0,
+			
+			NEW_GAME_ADVANTAGES: true,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			RIVALS_DISTANCE: 0.1,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 8,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 6,
+			
+			VASSALS: true,
+			UQ_UI: false,
+			BATTLE_SOUND_2: false,
+		},
+		{
+			Name: "AgeofIndustrialisation",
+			
+			AGE_BeginningYear: 810,
+			AGE_EndYear: 940,
+			
+			ENABLE_NON_KINGS_IMG: true,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 32,
+			POPULATION_GROWTH_PER_MONTH: 5600,
+			
+			FLAG_GROUP: [13, 13],
+			FLAG_BELOW: false,
+			
+			OVER_IMAGE_ID: 2,
+			SHIP_GROUP: 1,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: true,
+			
+			RIVALS_DISTANCE: 0.1,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 12,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 7,
+			
+			VASSALS: true,
+			UQ_UI: false,
+			BATTLE_SOUND_2: true,
+		},
+		{
+			Name: "AgeofImperialism",
+			
+			AGE_BeginningYear: 940,
+			AGE_EndYear: 1000,
+			
+			ENABLE_NON_KINGS_IMG: true,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 38,
+			POPULATION_GROWTH_PER_MONTH: 6000,
+			
+			FLAG_GROUP: [13, 13],
+			FLAG_BELOW: false,
+			
+			OVER_IMAGE_ID: 2,
+			SHIP_GROUP: 1,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: false,
+			
+			RIVALS_DISTANCE: 0.15,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 14,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 17,
+			
+			VASSALS: false,
+			UQ_UI: false,
+			BATTLE_SOUND_2: true,
+		},
+		{
+			Name: "AgeofConflict",
+			
+			AGE_BeginningYear: 1000,
+			AGE_EndYear: 1040,
+			
+			ENABLE_NON_KINGS_IMG: true,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 40,
+			POPULATION_GROWTH_PER_MONTH: 6400,
+			
+			FLAG_GROUP: [13, 13],
+			FLAG_BELOW: false,
+			
+			OVER_IMAGE_ID: 3,
+			SHIP_GROUP: 1,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: false,
+			
+			RIVALS_DISTANCE: 0.15,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 14,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 50,
+			
+			VASSALS: false,
+			UQ_UI: true,
+			BATTLE_SOUND_2: true,
+		},
+		{
+			Name: "AgeofBrinkmanship",
+			
+			AGE_BeginningYear: 1040,
+			AGE_EndYear: 1085,
+			
+			ENABLE_NON_KINGS_IMG: true,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 44,
+			POPULATION_GROWTH_PER_MONTH: 6000,
+			
+			FLAG_GROUP: [13, 13],
+			FLAG_BELOW: false,
+			
+			OVER_IMAGE_ID: 3,
+			SHIP_GROUP: 1,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: false,
+			
+			RIVALS_DISTANCE: 0.15,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 18,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 50,
+			
+			VASSALS: false,
+			UQ_UI: true,
+			BATTLE_SOUND_2: true,
+		},
+		{
+			Name: "AgeofInformation",
+			
+			AGE_BeginningYear: 1085,
+			AGE_EndYear: 1145,
+			
+			ENABLE_NON_KINGS_IMG: true,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 46,
+			POPULATION_GROWTH_PER_MONTH: 6000,
+			
+			FLAG_GROUP: [13, 13],
+			FLAG_BELOW: false,
+			
+			OVER_IMAGE_ID: 3,
+			SHIP_GROUP: 2,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: false,
+			
+			RIVALS_DISTANCE: 0.4,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 18,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 50,
+			
+			VASSALS: false,
+			UQ_UI: true,
+			BATTLE_SOUND_2: true,
+		},
+		{
+			Name: "AgeofTomorrow",
+			
+			AGE_BeginningYear: 1145,
+			AGE_EndYear: 1200,
+			
+			ENABLE_NON_KINGS_IMG: true,
+			FORCE_NON_KINGS_IMG: false,
+			
+			REGIMENT_SIZE: 1000,
+			REGIMENTS_LIMIT_BASE_VALUE: 50,
+			POPULATION_GROWTH_PER_MONTH: 7000,
+			
+			FLAG_GROUP: [13, 13],
+			FLAG_BELOW: false,
+			
+			OVER_IMAGE_ID: 3,
+			SHIP_GROUP: 2,
+			
+			GAME_DAYS_PER_TURN: 1,
+			
+			NEW_GAME_ADVANTAGES: false,
+			
+			RIVALS_DISTANCE: 0.4,
+			
+			DISEASE_CHANCE: 0.0825,
+			CHARACTERS_EXTRA_LIFE_EXPECTANCY: 18,
+			
+			AI_CONQUER_OWN_VASSALS_IF_OVER: 50,
+			
+			VASSALS: false,
+			UQ_UI: true,
+			BATTLE_SOUND_2: true,
+		},
+	],
+	
+	Age_of_History: Ages
+}

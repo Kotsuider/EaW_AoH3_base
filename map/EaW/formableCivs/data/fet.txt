@@ -1,0 +1,9 @@
+{
+FormableCivTag: "fet",
+ClaimantsTag: [
+	"fea",
+	"stw"
+],
+Provinces: [ 452, 454, 455, 466, 453, 447, 415, 416, 411, 414, 446, 464, 445, 465 ],
+CapitalProvinceID: 452
+}

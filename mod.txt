@@ -1,0 +1,37 @@
+{
+	Name: "Equestria at War Base",
+	Description: "
+	[h1]О моде[/h1]
+	Этот мод представляет из себя базис для сабмодов (Играбелен и без). Можете спокойно делать сабмоды добавляющие правителей, сценарии и тд.
+	[h1]Готовность[/h1]
+[list]
+    [*]Карта - 100%
+    [*]Сценарий - 100%
+    [*]Рандомые портреты - 100%
+    [*]Переработка флагов и тэгов - 100%
+    [*]Типы правительства - 100%
+    [*]Религии - 100%
+    [*]Формируемые цивилизации - 100%
+[/list]
+--------------------------------------------------------
+[h1]About[/h1]
+This mod is a base for submods (Playable without it). You can make submods, adding rulers, scenarios, etc. 
+[h1]Done[/h1] 
+[list] 
+[*]Map - 100% 
+[*]Scenario - 100% 
+[*]Random Portraits - 100%
+[*]Flag and Tag Rework - 100% 
+[*]Government Types - 100% 
+[*]Religions - 100% 
+[*]Formable Civilizations - 100% 
+[/list]
+
+--------------------------------------------------------
+[url=https://t.me/caelumterminus] Мой канал с няшными аниме артами  [/url]
+",
+	
+	Tags: [ "Map", "Languages", "Governments", "Scenario", "Alternative History", "Civilizations", "Cities", "Flags" ],
+	
+	ChangeNote: "Great update",
+}

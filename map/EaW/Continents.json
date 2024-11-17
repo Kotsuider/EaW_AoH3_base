@@ -1,0 +1,37 @@
+{
+	Age_of_History: Data,
+		Data: [
+		{
+			sName: "Ocean",
+			iR: 255,
+			iG: 255,
+			iB: 255,
+			
+			prioritizeColonization: false,
+		},
+		{
+			sName: "Zebrika",
+			iR: 37,
+			iG: 76,
+			iB: 110,
+			
+			prioritizeColonization: false,
+		},
+		{
+			sName: "Griphonia",
+			iR: 253,
+			iG: 213,
+			iB: 46,
+			
+			prioritizeColonization: false,
+		},
+		{
+			sName: "Equos",
+			iR: 65,
+			iG: 105,
+			iB: 225,
+			
+			prioritizeColonization: true,
+		},
+	]
+}

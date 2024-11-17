@@ -1,0 +1,287 @@
+{
+	Age_of_History: Data,
+		Data: [
+		{
+			Name: Pony,
+			Icon: "pony_race.png",
+			ReligionGroupID: 0,
+			Color: [124, 235, 84],
+			Tribal: false,
+			
+			DevelopInfrastructureCost: -0.1,
+			ConstructionTime: -0.10,
+			IncreaseTaxEfficiencyCost: -0.15,
+			
+		},
+		{
+			Name: Deer,
+			Icon: "deer_race.png",
+			ReligionGroupID: 1,
+			Color: [156, 158, 155],
+			Tribal: false,
+			
+			ProvinceMaintenance: -25,
+			IncreaseManpowerCost: -10,
+			EconomyBuildingsCost: -0.15,
+		},
+		{
+			Name: Changeling,
+			Icon: "changeling_race.png",
+			ReligionGroupID: 1,
+			Color: [28, 28, 28],
+			Tribal: false,
+			
+			DevelopInfrastructureCost: -0.15,
+			ArmyMaintenance: -20,
+			CoreCost: -15,
+		},
+		{
+			Name: Dimond_Dog,
+			Icon: "diamond_dog_race.png",
+			ReligionGroupID: 1,
+			Color: [68, 69, 43],
+			Tribal: false,
+			
+			UnitsDefense: 3,
+			ProductionEfficiency: 15,
+			InvestInEconomyCost: -0.15,
+		},
+		{
+			Name: Griffon,
+			Icon: "griffon_race.png",
+			ReligionGroupID: 2,
+			Color: [255, 176, 48],
+			Tribal: false,
+			
+			InvestInEconomyCost: -0.10,
+			MaxNumberOfLoans: 5,
+			AdministrationBuildingsCost: -0.10,
+		},
+		{
+			Name: Zebra,
+			Icon: "Zebra_Race.png",
+			ReligionGroupID: 3,
+			Color: [220, 192, 235],
+			Tribal: false,
+			
+			GeneralCost: -0.15,
+			MaxManpower: 3000,
+			ProvinceMaintenance: -10,
+		},
+		{
+			Name: Polar_Bear,
+			Icon: "Polar_Race.png",
+			ReligionGroupID: 4,
+			Color: [38, 35, 74],
+			Tribal: false,
+			
+			GeneralCost: -0.25,
+			UnitsDefense: 6,
+			ProductionEfficiency: 5,
+		},
+		{
+			Name: Kirin,
+			Icon: "kirin_race.png",
+			ReligionGroupID: 4,
+			Color: [247, 57, 57],
+			Tribal: false,
+			
+			TaxEfficiency: 25,
+			UnitsAttack: 2,
+			ConstructionTime: -0.15,
+			
+		},
+		{
+			Name: Hippogriff,
+			Icon: "hippogriff_race.png",
+			ReligionGroupID: 1,
+			Color: [57, 219, 247],
+			Tribal: false,
+			
+			BuildingSlot: 4,
+			ProvinceMaintenance: 10,
+			IncreaseManpowerCost: -0.20,
+		},
+		{
+			Name: Horse,
+			Icon: "horse_race.png",
+			ReligionGroupID: 0,
+			Color: [82, 52, 11],
+			Tribal: false,
+			
+			GeneralCost: -0.15,
+			ProvinceMaintenance: -35,
+			GeneralAttack: 3,
+		},
+		{
+			Name: Yaki,
+			Icon: "Yak_Race.png",
+			ReligionGroupID: 0,
+			Color: [130, 55, 55],
+			Tribal: false,
+			
+			CoreCost: -10,
+			RecruitmentTime: -15,
+			ConstructionTime: -0.20,
+		},
+		{
+			Name: Yeti,
+			Icon: "yeti_race.png",
+			ReligionGroupID: 0,
+			Color: [5, 13, 59],
+			Tribal: false,
+			
+			RecruitmentTime: -10,
+			ConstructionTime: -0.20,
+			GeneralCost: -0.15,
+			
+		},
+		{
+			Name: Dragon,
+			Icon: "Dragon_Race.png",
+			ReligionGroupID: 0,
+			Color: [181, 11, 133],
+			Tribal: false,
+			
+			GeneralAttack: 10,
+			ConstructionTime: 0.90,
+			ProductionEfficiency: -95,
+		},
+		{
+			Name: Minotaur,
+			Icon: "Minotaur_Race.png",
+			ReligionGroupID: 0,
+			Color: [89, 152, 240],
+			Tribal: false,
+			
+			IncreaseManpowerCost: -10.0,
+			InvestInEconomyCost: -0.15,
+			DevelopInfrastructureCost: -0.2,
+		},
+		{
+			Name: Abyssinian,
+			Icon: "Cat_Race.png",
+			ReligionGroupID: 0,
+			Color: [158, 25, 207],
+			Tribal: false,
+			
+			ConstructionTime: -0.10,
+			ArmyMaintenance: -20,
+			UnitsDefense: 3,
+		},
+		{
+			Name: Buffalo,
+			Icon: "Buffalo_Race.png",
+			ReligionGroupID: 0,
+			Color: [130, 82, 23],
+			Tribal: false,
+			
+			IncreaseTaxEfficiencyCost: -0.5,
+			ProvinceMaintenance: -10,
+			AdministrationBuildingsCost: -0.15,
+		},
+		{
+			Name: Camel,
+			Icon: "Camel_Race.png",
+			ReligionGroupID: 3,
+			Color: [194, 111, 10],
+			Tribal: false,
+			
+			ProductionEfficiency: 15,
+			MaxNumberOfLoans: 8,
+			TaxEfficiency: 15,
+			
+		},
+		{
+			Name: Giraffe,
+			Icon: "Giraffe_Race.png",
+			ReligionGroupID: 3,
+			Color: [240, 204, 86],
+			Tribal: false,
+			
+			DevelopInfrastructureCost: 0.20,
+			BuildingSlot: 3,
+			ConstructionCost: 0.2,
+			
+		},
+		{
+			Name: Harpy,
+			Icon: "harpy_race.png",
+			ReligionGroupID: 3,
+			Color: [69, 252, 3],
+			Tribal: false,
+			
+			ProductionEfficiency: 15,
+			ConstructionTime: -0.20,
+			InvestInEconomyCost: -0.15,
+			
+		},
+		{
+			Name: Gargoyle,
+			Icon: "gargoyle_race.png",
+			ReligionGroupID: 0,
+			Color: [11, 20, 31],
+			Tribal: false,
+			
+			MilitaryBuildingsCost: -0.15,
+			InvestInEconomyCost: 0.2,
+			GeneralAttack: 4,
+		},
+		{
+			Name: Centaur,
+			Icon: "centaur_race.png",
+			ReligionGroupID: 4,
+			Color: [35, 42, 51],
+			Tribal: false,
+			
+			MilitaryBuildingsCost: -0.15,
+			ArmyMaintenance: -20,
+			GeneralCost: -0.25,
+		},
+		{
+			Name: Undead,
+			Icon: "Undead_Race.png",
+			ReligionGroupID: 4,
+			Color: [0, 0, 0],
+			Tribal: false,
+			
+			ArmyMaintenance: -90,
+			ProductionEfficiency: -90,
+			TaxEfficiency: -90,
+			
+		},
+		{
+			Name: Donkey,
+			Icon: "donkey_race.png",
+			ReligionGroupID: 4,
+			Color: [133, 62, 42],
+			Tribal: false,
+			
+			AdministrationBuildingsCost: 0.30,
+			CoreCost: -10,
+			MaxManpower: 5000,
+		},
+		{
+			Name: Llama,
+			Icon: "Llama_Race.png",
+			ReligionGroupID: 0,
+			Color: [11, 138, 81],
+			Tribal: false,
+			
+			UnitsDefense: 6,
+			ConstructionTime: 0.20,
+			ProvinceMaintenance: -15
+		},
+		{
+			Name: Penguin,
+			Icon: "Penguin_Race.png",
+			ReligionGroupID: 0,
+			Color: [255, 255, 255],
+			Tribal: false,
+			
+			IncreaseTaxEfficiencyCost: -0.15,
+			IncreaseManpowerCost: -20,
+			BuildingSlot: 6,
+		},
+	]
+}
