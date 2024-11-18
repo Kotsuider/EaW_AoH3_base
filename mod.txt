@@ -28,6 +28,7 @@ This mod is a base for submods (Playable without it). You can make submods, addi
 [/list]
 
 --------------------------------------------------------
+[url=https://github.com/Kotsuider/EaW_AoH3_base] Github [/url]
 [url=https://t.me/caelumterminus] Мой канал с няшными аниме артами  [/url]
 ",
 	
