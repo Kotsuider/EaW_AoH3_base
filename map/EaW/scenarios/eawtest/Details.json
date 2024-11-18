@@ -1,5 +1,5 @@
 {
-Name: "Equestria at War",
+Name: "Equestria at War test",
 Author: "Ancap",
 Civs: 154,
 Age: 8,
@@ -17,5 +17,5 @@ ProvinceDefault_Population: 1000000,
 ProvinceDefault_Economy: 25,
 ProvinceDefault_TaxEfficiency: 10,
 ProvinceDefault_Manpower: 3,
-HoursPerTurn: 24
+HoursPerTurn: 6
 }
