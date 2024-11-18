@@ -17,5 +17,5 @@ ProvinceDefault_Population: 1000000,
 ProvinceDefault_Economy: 25,
 ProvinceDefault_TaxEfficiency: 10,
 ProvinceDefault_Manpower: 3,
-HoursPerTurn: 4
+HoursPerTurn: 24
 }
