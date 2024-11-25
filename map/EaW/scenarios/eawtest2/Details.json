@@ -1,0 +1,21 @@
+{
+Name: "Equestria at War test",
+Author: "Ancap",
+Civs: 154,
+Age: 8,
+Day: 1,
+Month: 1,
+Year: 1007,
+Campaign: true,
+CivDefault_Gold: 100,
+CivDefault_GoldRandom: 50,
+CivDefault_Legacy: 100,
+CivDefault_LegacyRandom: 50,
+CivDefault_ManpowerPercentage: 60,
+CivDefault_Technology: 35,
+ProvinceDefault_Population: 1000000,
+ProvinceDefault_Economy: 25,
+ProvinceDefault_TaxEfficiency: 10,
+ProvinceDefault_Manpower: 3,
+HoursPerTurn: 6
+}
