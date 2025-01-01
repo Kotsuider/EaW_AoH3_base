@@ -485,7 +485,9 @@
 	CivID: 65,
 	PCID: 50,
 	CPID: 480,
-	Population: 2028856
+	Population: 2028856,
+	Economy: 60,
+	TaxEff: 60
 },
 {
 	CivTAG: "lus_k",

@@ -14,8 +14,8 @@ CivDefault_LegacyRandom: 50,
 CivDefault_ManpowerPercentage: 60,
 CivDefault_Technology: 35,
 ProvinceDefault_Population: 1000000,
-ProvinceDefault_Economy: 25,
-ProvinceDefault_TaxEfficiency: 10,
-ProvinceDefault_Manpower: 3,
+ProvinceDefault_Economy: 5,
+ProvinceDefault_TaxEfficiency: 50,
+ProvinceDefault_Manpower: 30,
 HoursPerTurn: 12
 }

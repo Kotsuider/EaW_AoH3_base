@@ -28,11 +28,20 @@ This mod is a base for submods (Playable without it). You can make submods, addi
 [/list]
 
 --------------------------------------------------------
+[h1]Submods[/h1]
+[list] 
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3393880959] Equestria at War Base CN [/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3370266808] Equestria At War Replacement of Base units icons [/url]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3355926417] Equestria at War: Against to Humanity [/url]
+[*][url=https://www.youtube.com/watch?v=dQw4w9WgXcQ] Equestria At War Liders - Soon [/url]
+
+[/list]
+
 [url=https://github.com/Kotsuider/EaW_AoH3_base] Github [/url]
 [url=https://t.me/caelumterminus] Мой канал с няшными аниме артами  [/url]
 ",
 	
 	Tags: [ "Map", "Languages", "Governments", "Scenario", "Alternative History", "Civilizations", "Cities", "Flags" ],
 	
-	ChangeNote: "Great update",
+	ChangeNote: "Update!",
 }
