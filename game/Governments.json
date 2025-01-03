@@ -1,7 +1,7 @@
 {
 	Government: [
 		{
-			Name: "Democracy",
+			Name: "Republicanism",
 			Extra_Tag: "",
 			GOV_GROUP_ID: 0,
 			
@@ -79,7 +79,7 @@
 			AI_BUILD_BUILDING: 100,
 		},
 		{
-			Name: "conservatism",
+			Name: "Centrism",
 			Extra_Tag: "o",
 			GOV_GROUP_ID: 0,
 			
@@ -977,7 +977,7 @@
 			AI_BUILD_BUILDING: 100,
 		},
 		{
-			Name: "ancapistan",
+			Name: "Corporatocracy",
 			Extra_Tag: "5",
 			GOV_GROUP_ID: 0,
 			
@@ -1172,7 +1172,7 @@
 			AI_BUILD_BUILDING: 100,
 		},
 		{
-			Name: "Autocratia",
+			Name: "Despotism",
 			Extra_Tag: "k",
 			GOV_GROUP_ID: 2,
 			

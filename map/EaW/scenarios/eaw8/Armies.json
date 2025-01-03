@@ -1,0 +1,17 @@
+[
+{
+	ProvinceID: 533,
+	UnitTypeID: [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+	ArmyID: [ 5, 5, 5, 5, 5, 5, 5, 5 ]
+},
+{
+	ProvinceID: 611,
+	UnitTypeID: [ 4, 4, 4, 4, 4, 4 ],
+	ArmyID: [ 2, 2, 2, 2, 2, 2 ]
+},
+{
+	ProvinceID: 614,
+	UnitTypeID: [ 0, 0, 0, 0, 0, 0, 0, 0 ],
+	ArmyID: [ 5, 5, 5, 5, 5, 5, 5, 5 ]
+}
+]

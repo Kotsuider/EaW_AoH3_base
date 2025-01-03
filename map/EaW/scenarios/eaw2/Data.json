@@ -615,381 +615,367 @@
 	Population: 11461632
 },
 {
-	CivTAG: "hin_m",
+	CivTAG: "ctl_k",
 	CivID: 83,
 	PCID: 83,
-	CPID: 1444,
-	Population: 10023445
-},
-{
-	CivTAG: "lmb_9",
-	CivID: 84,
-	PCID: 84,
-	CPID: 1450,
-	Population: 4115083
-},
-{
-	CivTAG: "ctl_k",
-	CivID: 85,
-	PCID: 85,
 	CPID: 1298,
 	Population: 7469742
 },
 {
 	CivTAG: "sam_h",
-	CivID: 86,
-	PCID: 86,
+	CivID: 84,
+	PCID: 84,
 	CPID: 1295,
 	Population: 11134167
 },
 {
 	CivTAG: "brs_k",
-	CivID: 87,
-	PCID: 87,
+	CivID: 85,
+	PCID: 85,
 	CPID: 1292,
 	Population: 3750105
 },
 {
 	CivTAG: "gaz_m",
-	CivID: 88,
-	PCID: 88,
+	CivID: 86,
+	PCID: 86,
 	CPID: 1437,
 	Population: 4305199
 },
 {
 	CivTAG: "kir_q",
-	CivID: 89,
-	PCID: 89,
+	CivID: 87,
+	PCID: 87,
 	CPID: 1425,
 	Population: 20548987
 },
 {
 	CivTAG: "nva_k",
-	CivID: 90,
-	PCID: 90,
+	CivID: 88,
+	PCID: 88,
 	CPID: 1277,
 	Population: 4366679
 },
 {
 	CivTAG: "khm_v",
-	CivID: 91,
-	PCID: 91,
+	CivID: 89,
+	PCID: 89,
 	CPID: 1275,
 	Population: 1725014
 },
 {
 	CivTAG: "kxn_f",
-	CivID: 92,
-	PCID: 92,
+	CivID: 90,
+	PCID: 90,
 	CPID: 1418,
 	Population: 1533031
 },
 {
 	CivTAG: "zoo_k",
-	CivID: 93,
-	PCID: 93,
+	CivID: 91,
+	PCID: 91,
 	CPID: 1260,
 	TechnologyID: 13,
 	Population: 1905165
 },
 {
 	CivTAG: "tai_4",
-	CivID: 94,
-	PCID: 94,
+	CivID: 92,
+	PCID: 92,
 	CPID: 1257,
 	TechnologyID: 13,
 	Population: 1508744
 },
 {
 	CivTAG: "mel_4",
-	CivID: 95,
-	PCID: 95,
+	CivID: 93,
+	PCID: 93,
 	CPID: 1160,
 	TechnologyID: 13,
 	Population: 1169874
 },
 {
 	CivTAG: "mqa_k",
-	CivID: 96,
-	PCID: 96,
+	CivID: 94,
+	PCID: 94,
 	CPID: 1152,
 	Population: 2235206
 },
 {
 	CivTAG: "ist_4",
-	CivID: 97,
-	PCID: 97,
+	CivID: 95,
+	PCID: 95,
 	CPID: 1263,
 	TechnologyID: 13,
 	Population: 1493004
 },
 {
 	CivTAG: "del_9",
-	CivID: 98,
-	PCID: 98,
+	CivID: 96,
+	PCID: 96,
 	CPID: 1403,
 	TechnologyID: 13,
 	Population: 2618432
 },
 {
 	CivTAG: "ido_4",
-	CivID: 99,
-	PCID: 99,
+	CivID: 97,
+	PCID: 97,
 	CPID: 1274,
 	TechnologyID: 13,
 	Population: 1535135
 },
 {
 	CivTAG: "zlu_f",
-	CivID: 100,
-	PCID: 100,
+	CivID: 98,
+	PCID: 98,
 	CPID: 1409,
 	TechnologyID: 13,
 	Population: 3826153
 },
 {
 	CivTAG: "yan_k",
-	CivID: 101,
+	CivID: 99,
 	PCID: 50,
 	CPID: 1163,
 	Population: 4172878
 },
 {
 	CivTAG: "zar_4",
-	CivID: 102,
-	PCID: 102,
+	CivID: 100,
+	PCID: 100,
 	CPID: 1353,
 	Population: 1924251
 },
 {
 	CivTAG: "zai_4",
-	CivID: 103,
-	PCID: 103,
+	CivID: 101,
+	PCID: 101,
 	CPID: 1067,
 	TechnologyID: 13,
 	Population: 135747
 },
 {
 	CivTAG: "aby_k",
-	CivID: 104,
-	PCID: 104,
+	CivID: 102,
+	PCID: 102,
 	CPID: 926,
 	TechnologyID: 57,
 	Population: 6223278
 },
 {
 	CivTAG: "klg_7",
-	CivID: 105,
-	PCID: 105,
+	CivID: 103,
+	PCID: 103,
 	CPID: 1896,
 	TechnologyID: 57,
 	Population: 516888
 },
 {
 	CivTAG: "ans_v",
-	CivID: 106,
-	PCID: 106,
+	CivID: 104,
+	PCID: 104,
 	CPID: 934,
 	TechnologyID: 57,
 	Population: 3367886
 },
 {
 	CivTAG: "ymn_k",
-	CivID: 107,
-	PCID: 107,
+	CivID: 105,
+	PCID: 105,
 	CPID: 1116,
 	TechnologyID: 57,
 	Population: 3982626
 },
 {
 	CivTAG: "tim_q",
-	CivID: 108,
-	PCID: 108,
+	CivID: 106,
+	PCID: 106,
 	CPID: 978,
 	TechnologyID: 55,
 	Population: 3149793
 },
 {
 	CivTAG: "alo_k",
-	CivID: 109,
-	PCID: 109,
+	CivID: 107,
+	PCID: 107,
 	CPID: 980,
 	Population: 1252440
 },
 {
 	CivTAG: "mgy_m",
-	CivID: 110,
-	PCID: 110,
+	CivID: 108,
+	PCID: 108,
 	CPID: 1144,
 	TechnologyID: 57,
 	Population: 10614809
 },
 {
 	CivTAG: "cgi_k",
-	CivID: 111,
-	PCID: 111,
+	CivID: 109,
+	PCID: 109,
 	CPID: 1378,
 	TechnologyID: 13,
 	Population: 7763721
 },
 {
 	CivTAG: "cme_4",
-	CivID: 112,
-	PCID: 112,
+	CivID: 110,
+	PCID: 110,
 	CPID: 1077,
 	Population: 1032691
 },
 {
 	CivTAG: "czr_v",
-	CivID: 113,
-	PCID: 113,
+	CivID: 111,
+	PCID: 111,
 	CPID: 1014,
 	TechnologyID: 13,
 	Population: 1173328
 },
 {
 	CivTAG: "hye_h",
-	CivID: 114,
-	PCID: 114,
+	CivID: 112,
+	PCID: 112,
 	CPID: 1055,
 	Population: 3054968
 },
 {
 	CivTAG: "hay_m",
-	CivID: 115,
-	PCID: 115,
+	CivID: 113,
+	PCID: 113,
 	CPID: 1023,
 	Population: 3489463
 },
 {
 	CivTAG: "zug_k",
-	CivID: 116,
-	PCID: 116,
+	CivID: 114,
+	PCID: 114,
 	CPID: 1045,
 	Population: 1996512
 },
 {
 	CivTAG: "zwa",
-	CivID: 117,
-	PCID: 117,
+	CivID: 115,
+	PCID: 115,
 	CPID: 1028,
 	Population: 1935873
 },
 {
 	CivTAG: "son_h",
-	CivID: 118,
-	PCID: 118,
+	CivID: 116,
+	PCID: 116,
 	CPID: 1009,
 	Population: 2733128
 },
 {
 	CivTAG: "maz_k",
-	CivID: 119,
-	PCID: 119,
+	CivID: 117,
+	PCID: 117,
 	CPID: 990,
 	Population: 3569721
 },
 {
 	CivTAG: "ree_q",
-	CivID: 120,
-	PCID: 120,
+	CivID: 118,
+	PCID: 118,
 	CPID: 987,
 	TechnologyID: 68,
 	Population: 1970966
 },
 {
 	CivTAG: "hmr_k",
-	CivID: 121,
-	PCID: 121,
+	CivID: 119,
+	PCID: 119,
 	CPID: 1138,
 	TechnologyID: 57,
 	Population: 2868108
 },
 {
 	CivTAG: "osq_m",
-	CivID: 122,
-	PCID: 122,
+	CivID: 120,
+	PCID: 120,
 	CPID: 1220,
 	TechnologyID: 57,
 	Population: 2983016
 },
 {
 	CivTAG: "mta_v",
-	CivID: 123,
-	PCID: 123,
+	CivID: 121,
+	PCID: 121,
 	CPID: 1040,
 	TechnologyID: 68,
 	Population: 2571951
 },
 {
 	CivTAG: "mss_4",
-	CivID: 124,
-	PCID: 124,
+	CivID: 122,
+	PCID: 122,
 	CPID: 1006,
 	Population: 1109909
 },
 {
 	CivTAG: "slc_8",
-	CivID: 125,
-	PCID: 125,
+	CivID: 123,
+	PCID: 123,
 	CPID: 1130,
 	Population: 3882022
 },
 {
 	CivTAG: "kar_k",
-	CivID: 126,
-	PCID: 126,
+	CivID: 124,
+	PCID: 124,
 	CPID: 1216,
 	Population: 9996920
 },
 {
 	CivTAG: "mto_m",
-	CivID: 127,
-	PCID: 127,
+	CivID: 125,
+	PCID: 125,
 	CPID: 1189,
 	TechnologyID: 57,
 	Population: 6925016
 },
 {
 	CivTAG: "stm_r",
-	CivID: 128,
-	PCID: 128,
+	CivID: 126,
+	PCID: 126,
 	CPID: 1235,
 	Population: 3935107
 },
 {
 	CivTAG: "gyz_h",
-	CivID: 129,
-	PCID: 129,
+	CivID: 127,
+	PCID: 127,
 	CPID: 1048,
 	Population: 4072247
 },
 {
 	CivTAG: "gif_k",
-	CivID: 130,
-	PCID: 130,
+	CivID: 128,
+	PCID: 128,
 	CPID: 1092,
 	TechnologyID: 13,
 	Population: 3068526
 },
 {
 	CivTAG: "gar_s",
-	CivID: 131,
-	PCID: 131,
+	CivID: 129,
+	PCID: 129,
 	CPID: 1083,
 	TechnologyID: 57,
 	Population: 3933768
 },
 {
 	CivTAG: "tsv_8",
-	CivID: 132,
-	PCID: 132,
+	CivID: 130,
+	PCID: 130,
 	CPID: 1388,
 	Population: 1771488
 },
 {
 	CivTAG: "pcb_q",
-	CivID: 133,
+	CivID: 131,
 	PCID: 1,
 	CPID: 1110,
 	TechnologyID: 68,
@@ -997,164 +983,175 @@
 },
 {
 	CivTAG: "gfs_o",
-	CivID: 134,
-	PCID: 134,
+	CivID: 132,
+	PCID: 132,
 	CPID: 1253,
 	TechnologyID: 57,
 	Population: 4019349
 },
 {
 	CivTAG: "spl_k",
-	CivID: 135,
-	PCID: 135,
+	CivID: 133,
+	PCID: 133,
 	CPID: 1447,
 	Population: 1675068
 },
 {
 	CivTAG: "msh_3a",
-	CivID: 136,
-	PCID: 136,
+	CivID: 134,
+	PCID: 134,
 	CPID: 1010,
 	Population: 1233368
 },
 {
 	CivTAG: "zel_k",
-	CivID: 137,
-	PCID: 137,
+	CivID: 135,
+	PCID: 135,
 	CPID: 1020,
 	Population: 1980565
 },
 {
 	CivTAG: "sdl_k",
-	CivID: 138,
-	PCID: 138,
+	CivID: 136,
+	PCID: 136,
 	CPID: 1230,
 	TechnologyID: 68,
 	Population: 3800000
 },
 {
 	CivTAG: "sds_q",
-	CivID: 139,
-	PCID: 139,
+	CivID: 137,
+	PCID: 137,
 	CPID: 970,
 	TechnologyID: 68,
 	Population: 6278948
 },
 {
 	CivTAG: "sdc_c",
-	CivID: 140,
-	PCID: 140,
+	CivID: 138,
+	PCID: 138,
 	CPID: 1225,
 	TechnologyID: 68,
 	Population: 2619426
 },
 {
 	CivTAG: "sdf_h",
-	CivID: 141,
-	PCID: 141,
+	CivID: 139,
+	PCID: 139,
 	CPID: 966,
 	TechnologyID: 68,
 	Population: 5954807
 },
 {
 	CivTAG: "emr_7",
-	CivID: 142,
-	PCID: 142,
+	CivID: 140,
+	PCID: 140,
 	CPID: 947,
 	TechnologyID: 68,
 	Population: 10562620
 },
 {
 	CivTAG: "yak_m",
-	CivID: 143,
-	PCID: 143,
+	CivID: 141,
+	PCID: 141,
 	CPID: 156,
 	TechnologyID: 57,
 	Population: 5847436
 },
 {
 	CivTAG: "blt_3a",
-	CivID: 144,
-	PCID: 144,
+	CivID: 142,
+	PCID: 142,
 	CPID: 1383,
 	Population: 3273289
 },
 {
-	CivTAG: "roa_h",
-	CivID: 145,
-	PCID: 145,
-	CPID: 1396,
-	Population: 4998325
-},
-{
 	CivTAG: "cnt_k",
-	CivID: 146,
-	PCID: 146,
+	CivID: 143,
+	PCID: 143,
 	CPID: 1251,
 	TechnologyID: 57,
 	Population: 8281043
 },
 {
 	CivTAG: "thu_b",
-	CivID: 147,
-	PCID: 147,
+	CivID: 144,
+	PCID: 144,
 	CPID: 1241,
 	Population: 3702265
 },
 {
 	CivTAG: "aes_m",
-	CivID: 148,
-	PCID: 148,
+	CivID: 145,
+	PCID: 145,
 	CPID: 1207,
 	TechnologyID: 57,
 	Population: 5546214
 },
 {
 	CivTAG: "idt_k",
-	CivID: 149,
-	PCID: 149,
+	CivID: 146,
+	PCID: 146,
 	CPID: 1179,
 	TechnologyID: 4,
 	Population: 205600
 },
 {
 	CivTAG: "ass_h",
-	CivID: 150,
-	PCID: 150,
+	CivID: 147,
+	PCID: 147,
 	CPID: 936,
 	TechnologyID: 57,
 	Population: 2877414
 },
 {
 	CivTAG: "mcw_o",
-	CivID: 151,
-	PCID: 151,
+	CivID: 148,
+	PCID: 148,
 	CPID: 1343,
 	TechnologyID: 68,
 	Population: 11611991
 },
 {
 	CivTAG: "hrv_k",
-	CivID: 152,
-	PCID: 152,
+	CivID: 149,
+	PCID: 149,
 	CPID: 1166,
 	TechnologyID: 57,
 	Population: 2434004
 },
 {
 	CivTAG: "fat",
-	CivID: 153,
-	PCID: 153,
+	CivID: 150,
+	PCID: 150,
 	CPID: 449,
 	TechnologyID: 57,
 	Population: 4773223
 },
 {
 	CivTAG: "mer_k",
-	CivID: 154,
+	CivID: 151,
 	PCID: 40,
 	CPID: 1103,
 	TechnologyID: 68,
 	Population: 1038035
+},
+{
+	CivTAG: "roa_h",
+	CivID: 152,
+	PCID: 152,
+	CPID: 1396
+},
+{
+	CivTAG: "hin_m",
+	CivID: 153,
+	PCID: 153,
+	CPID: 1444
+},
+{
+	CivTAG: "lmb_9",
+	CivID: 154,
+	PCID: 154,
+	CPID: 1450
 }
 ]

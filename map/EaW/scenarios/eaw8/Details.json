@@ -1,0 +1,21 @@
+{
+Name: "Equestria at War: Memories of 1009",
+Author: "Ancap",
+Civs: 146,
+Age: 8,
+Day: 1,
+Month: 1,
+Year: 1009,
+Campaign: false,
+CivDefault_Gold: 100,
+CivDefault_GoldRandom: 50,
+CivDefault_Legacy: 100,
+CivDefault_LegacyRandom: 50,
+CivDefault_ManpowerPercentage: 60,
+CivDefault_Technology: 35,
+ProvinceDefault_Population: 1000000,
+ProvinceDefault_Economy: 5,
+ProvinceDefault_TaxEfficiency: 50,
+ProvinceDefault_Manpower: 30,
+HoursPerTurn: 12
+}
